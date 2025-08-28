@@ -1,6 +1,6 @@
 # 👋 Hi, I'm 이종혁!
 
-🚀 AI/ML Engineer | 🦷 Medical AI Specialist | 🛣️ AutoPilot | 🛠 Full-stack Dev | 
+🚀 AI/ML Engineer | 🦷 Medical AI | 🛠 Full-stack Dev | 
 
 ---
 
