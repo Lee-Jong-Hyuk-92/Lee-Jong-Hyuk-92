@@ -6,11 +6,11 @@
 
 ## 🧠 Tech Stack
 
-- 🔬 AI/ML: PyTorch, TensorFlow, Scikit-learn, YOLO, SelfDriving, LLM
-- 🖼️ CV: OpenCV, segmentation models
+- 🔬 AI/ML: PyTorch, TensorFlow, Scikit-learn, YOLO
 - 🔗 Backend: Flask, MySQL, MongoDB
 - ⚙️ DevOps: Docker, Anaconda, Ubuntu Server
 - 📱 Cross-platform: Flutter, React Native, Expo
+  
 <div style="margin: ; text-align: left;" "text-align: left;"> <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white">
           <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
           <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=Figma&logoColor=white">
